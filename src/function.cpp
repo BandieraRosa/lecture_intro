@@ -1,1 +1,3 @@
-#include "function.hpp"
+#include "../include/function.hpp"
+
+int add(int a, int b) { return a + b; }

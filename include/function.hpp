@@ -1,4 +1,6 @@
-#ifndef HEADER_HPP
-#define HEADER_HPP
+#ifndef FUNCTION_HPP
+#define FUNCTION_HPP
+
+int add(int a, int b);
 
 #endif
